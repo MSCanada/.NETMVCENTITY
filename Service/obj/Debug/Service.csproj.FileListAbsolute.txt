@@ -1,0 +1,6 @@
+C:\Users\Muhammad Suhail\Documents\Visual Studio 2017\Projects\SimpleWebApplication\Service\bin\Service.dll.config
+C:\Users\Muhammad Suhail\Documents\Visual Studio 2017\Projects\SimpleWebApplication\Service\bin\Service.dll
+C:\Users\Muhammad Suhail\Documents\Visual Studio 2017\Projects\SimpleWebApplication\Service\bin\Service.pdb
+C:\Users\Muhammad Suhail\Documents\Visual Studio 2017\Projects\SimpleWebApplication\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad Suhail\Documents\Visual Studio 2017\Projects\SimpleWebApplication\Service\obj\Debug\Service.dll
+C:\Users\Muhammad Suhail\Documents\Visual Studio 2017\Projects\SimpleWebApplication\Service\obj\Debug\Service.pdb
